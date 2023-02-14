@@ -3,37 +3,35 @@
         {
             "id": 1,
             "banner_headline": "ISO 17025 CALA  ACCREDITED LABORATORY",
-            "banner_content": "Bulk Asbestos (PLM), Fiber Count (PCM) and Mold (Spore Trap) Testing..",
+            "banner_content": "Bulk Asbestos (PLM), Fiber Count (PCM) and Mold (Spore Trap) Testing",
             "Our_Expertise": [
                 {
-                    "expertise_1": {
-                        "name": "BULK ASBESTOS IDENTIFICATION",
-                        "title": "Bulk Asbestos Identification - Polarized Light Microscopy (PLM) EPA/600/R-93/116",
-                        "content": "Examination of bulk samples for asbestos content is conducted in accordance with EPA/600/R-93/116 or EPA/600/M4-82-020 methodologies using polarized light microscopy (PLM)."
-                    },
-                    "expertise_2": {
-                        "name": "AIRBORNE ASBESTOS FIBER COUNTING",
-                        "title": "Airborne Asbestos Fiber Counting - Phase Contrast Microscopy (PCM) NIOSH 7400",
-                        "content": "Airborne fibre counting analysis is conducted in accordance with The National Institute for Occupational Safety and Health (NIOSH) Method 7400 and analysed by phase contrast microscopy (PCM)."
-                    },
-                    "expertise_3": {
-                        "name": "MOLD",
-                        "title": "Analysis of Fungal Spore & Particulate by Optical Microscopy",
-                        "content": "Analysis of Fungal Spore & Particulate involves spore counting and identification of different categories of mold spores. Mold samples can include air samples, surface samples such as swabs, bulk samples (pieces of material, dust or liquids), tape lift, and contact plates."
-                    }
+                    "name": "BULK ASBESTOS IDENTIFICATION",
+                    "title": "Bulk Asbestos Identification - Polarized Light Microscopy (PLM) EPA/600/R-93/116",
+                    "content": "Examination of bulk samples for asbestos content is conducted in accordance with EPA/600/R-93/116 or EPA/600/M4-82-020 methodologies using polarized light microscopy (PLM)."
+                },
+                {
+                    "name": "AIRBORNE ASBESTOS FIBER COUNTING",
+                    "title": "Airborne Asbestos Fiber Counting - Phase Contrast Microscopy (PCM) NIOSH 7400",
+                    "content": "Airborne fibre counting analysis is conducted in accordance with The National Institute for Occupational Safety and Health (NIOSH) Method 7400 and analysed by phase contrast microscopy (PCM)."
+                },
+                {
+                    "name": "MOLD",
+                    "title": "Analysis of Fungal Spore & Particulate by Optical Microscopy",
+                    "content": "Analysis of Fungal Spore & Particulate involves spore counting and identification of different categories of mold spores. Mold samples can include air samples, surface samples such as swabs, bulk samples (pieces of material, dust or liquids), tape lift, and contact plates."
                 }
             ],
             "hours_of_operation": [
                 {
-                    "title": "Mon",
+                    "title": "Monday",
                     "operation_hour": "08:00am - 5:00pm"
                 },
                 {
-                    "title": "Tue",
+                    "title": "Tuesday",
                     "operation_hour": "08:00am - 5:00pm"
                 },
                 {
-                    "title": "Wed",
+                    "title": "Wednesday",
                     "operation_hour": "08:00am - 5:00pm"
                 },
                 {
@@ -49,57 +47,140 @@
                     "operation_hour": "ON CALL"
                 }
             ],
-            "about_us": {
-                "title": "Guardian Lab Services has been providing quality laboratory testing for home-owners, home inspectors, independent contractors and realtors since 2017.",
-                "sub_title": "Quality control is monitored quarterly through interlaboratory and intralaboratory comparison as well as proficiency testing administered by the Canadian Association for Laboratory Accreditation (CALA) which is an internationally recognized accreditation for laboratories. Guardian Lab Services is accredited under CALA Membership Number 4133",
-                "content": "Final results are confidentially reported to clients. At Guardian Lab we provide the highest quality of service with competitive pricing."
-            },
+            "about_us": [
+                {
+                    "title": "Guardian Lab Services has been providing quality laboratory testing for home-owners, home inspectors, independent contractors and realtors since 2017.",
+                    "sub_title": "Quality control is monitored quarterly through interlaboratory and intralaboratory comparison as well as proficiency testing administered by the Canadian Association for Laboratory Accreditation (CALA) which is an internationally recognized accreditation for laboratories. Guardian Lab Services is accredited under CALA Membership Number 4133",
+                    "content": "Final results are confidentially reported to clients. At Guardian Lab we provide the highest quality of service with competitive pricing."
+                }
+            ],
+            "benefits_title": "Our fully accredited services include:",
             "benefits": [
                 {
-                    "title": "Our fully accredited services include:",
-                    "benefit_1": {
-                        "title": "Bulk Asbestos Analysis EPA/600/R-93/116",
-                        "content": "Trust the experts at Guardian Lab Services to carry out difficult projects."
-                    },
-                    "benefit_2": {
-                        "title": "Mold – Bulk and Spore Trap Analysis – AIHA",
-                        "content": "At Guardian Lab Services you can be confident you are receiving quality results."
-                    },
-                    "benefit_3": {
-                        "title": "Asbestos Airborne Fiber Counting NIOSH 7400",
-                        "content": "Guardian Lab Services is equipped to support rigorous quality standards."
-                    },
-                    "benefit_4": {
-                        "title": "Quick Turnaround",
-                        "content": "Turnaround Times include: 24 hours, 6 hours, and 3 Hours."
-                    }
+                    "title": "Bulk Asbestos Analysis EPA/600/R-93/116",
+                    "content": "Trust the experts at Guardian Lab Services to carry out difficult projects."
+                },
+                {
+                    "title": "Mold – Bulk and Spore Trap Analysis – AIHA",
+                    "content": "At Guardian Lab Services you can be confident you are receiving quality results."
+                },
+                {
+                    "title": "Asbestos Airborne Fiber Counting NIOSH 7400",
+                    "content": "Guardian Lab Services is equipped to support rigorous quality standards."
+                },
+                {
+                    "title": "Quick Turnaround",
+                    "content": "Turnaround Times include: 24 hours, 6 hours, and 3 Hours."
                 }
             ]
         }
     ],
     "our_services": [
         {
-            "service_1": {
-                "name": "BULK ASBESTOS IDENTIFICATION",
-                "title": "Bulk Asbestos Identification - Polarized Light Microscopy (PLM) EPA/600/R- 93/116",
-                "sub_heading": "Examination of samples for bulk asbestos content is conducted in accordance with EPA/600/R-93/116 or EPA/600/M4-82-020 methodologies using polarized light microscopy (PLM).",
-                "description": "Polarized light microscopy (PLM) analysis is the most commonly accepted technique for analysing bulk samples for asbestos. PLM analysis is specific to fibrous materials and allows for the determination of: Asbestos Type: Chrysotile, Amosite, Actinolite, Tremolite, Crocidolite or Anthophyllite;Quantification: percentage of asbestos and non-asbestos fibers in the sample quantified by the Calibrated Visual Estimate of the analyst;Fiber Colour under microscopic evaluation;Multiple layers of samples are analysed and reported separately. Please note that the EPA test method has limitations for quantifying the percentage of samples with low asbestos concentration. Transmission electron microscopy (TEM) would be encouraged for customers to obtain accurate results in these situations."
-            },
-            "service_2": {
-                "name": "AIRBORNE ASBESTOS FIBER COUNTING",
-                "title": "Airborne Asbestos Fiber Counting - Phase Contrast Microscopy (PCM) NIOSH 7400",
-                "sub_heading": "Airborne fibre counting analysis is conducted in accordance with The National Institute for Occupational Safety and Health (NIOSH) Method 7400. While testing for airborne asbestos, air is drawn through a filter which is then analysed by phase contrast microscopy (PCM) or transmission electron microscopy (TEM).",
-                "description": "Please note the PCM method does not differentiate between asbestos and other fibers. Transmission Electron Microscopy (TEM) is encouraged for customers to obtain more accurate results where precise determination of airborne asbestos fiber is needed."
-            },
-            "service_3": {
-                "name": "MOLD ANALYSIS",
-                "title": "Standard Test Method for Categorization and Quantification of Airborne Fungal Structures in an Inertial Impaction Sample by Optical Microscopy",
-                "sub_heading": "The lab test method for the analysis of Fungal Spore & Particulate by Optical Microscopy samples can include air samples, surface samples such as swabs, bulk (pieces of material, dust or liquids), tape lift, and contact plates.",
-                "description": "Non-viable (total spore count) analysis samples can include Air-O-Cell, VersaTrap Cassette, VersaTrap Sampling Cassettes, SKC BioStage, SKC BioCassette, Micro 5, Cyclex D, LARO-100, PCM and other cassettes. This analysis involves spore counting and identification of different categories of mold spores. The report includes spore counts for each category of spores and the grand total spore count for all spores per cubic meter of air."
-            }
+            "id": 1,
+            "services": [
+                {
+                    "name": "BULK ASBESTOS IDENTIFICATION",
+                    "title": "Bulk Asbestos Identification - Polarized Light Microscopy (PLM) EPA/600/R- 93/116",
+                    "sub_heading": "Examination of samples for bulk asbestos content is conducted in accordance with EPA/600/R-93/116 or EPA/600/M4-82-020 methodologies using polarized light microscopy (PLM).",
+                    "description": "Polarized light microscopy (PLM) analysis is the most commonly accepted technique for analysing bulk samples for asbestos. PLM analysis is specific to fibrous materials and allows for the determination of: Asbestos Type: Chrysotile, Amosite, Actinolite, Tremolite, Crocidolite or Anthophyllite;Quantification: percentage of asbestos and non-asbestos fibers in the sample quantified by the Calibrated Visual Estimate of the analyst;Fiber Colour under microscopic evaluation;Multiple layers of samples are analysed and reported separately. Please note that the EPA test method has limitations for quantifying the percentage of samples with low asbestos concentration. Transmission electron microscopy (TEM) would be encouraged for customers to obtain accurate results in these situations."
+                },
+                {
+                    "name": "AIRBORNE ASBESTOS FIBER COUNTING",
+                    "title": "Airborne Asbestos Fiber Counting - Phase Contrast Microscopy (PCM) NIOSH 7400",
+                    "sub_heading": "Airborne fibre counting analysis is conducted in accordance with The National Institute for Occupational Safety and Health (NIOSH) Method 7400. While testing for airborne asbestos, air is drawn through a filter which is then analysed by phase contrast microscopy (PCM) or transmission electron microscopy (TEM).",
+                    "description": "Please note the PCM method does not differentiate between asbestos and other fibers. Transmission Electron Microscopy (TEM) is encouraged for customers to obtain more accurate results where precise determination of airborne asbestos fiber is needed."
+                },
+                {
+                    "name": "MOLD ANALYSIS",
+                    "title": "Standard Test Method for Categorization and Quantification of Airborne Fungal Structures in an Inertial Impaction Sample by Optical Microscopy",
+                    "sub_heading": "The lab test method for the analysis of Fungal Spore & Particulate by Optical Microscopy samples can include air samples, surface samples such as swabs, bulk (pieces of material, dust or liquids), tape lift, and contact plates.",
+                    "description": "Non-viable (total spore count) analysis samples can include Air-O-Cell, VersaTrap Cassette, VersaTrap Sampling Cassettes, SKC BioStage, SKC BioCassette, Micro 5, Cyclex D, LARO-100, PCM and other cassettes. This analysis involves spore counting and identification of different categories of mold spores. The report includes spore counts for each category of spores and the grand total spore count for all spores per cubic meter of air."
+                }
+            ]
         }
     ],
-    "profile": {
-        "name": "typicode"
-    }
+    "faq": [
+        {
+            "id": 1,
+            "faqs": [
+                {
+                    "title": "Why choose an accredited lab vs non-accredited?",
+                    "content": "Guardian Lab Services is a fully accredited laboratory belonging to the Canadian Association of Laboratory Accreditation (CALA Lab code A4133) . The majority of asbestos testing labs in Canada are non-accredited and are non-compliant with an ISO 17025 Quality Assurance Program. The purpose of a quality assurance program is to assure that all laboratory testing is performed according to the principles of current good laboratory practises. In other words, a quality system of management controls for the laboratory to ensure the uniformity, consistency, reliability, reproducibility, quality, and integrity of documentation and test results. Accreditation makes a huge difference in quality control and analyst competency. All of our analysts are rigorously proficiency tested by CALA to check for precision and accuracy."
+                },
+                {
+                    "title": "What is asbestos and why is it dangerous?",
+                    "content": "Asbestos is a naturally occurring fibrous mineral. It is not dangerous unless it is airborne, which can happen during renovations or when removing old building materials. It is important to test any materials that are going to be removed or disturbed because exposure to asbestos can cause cancer and other lung diseases."
+                },
+                {
+                    "title": "How do I submit building material samples for analysis?",
+                    "content": "Guardian Labs recommend you hire a qualified and experienced professional to collect samples from your property.\n\nIf you decide to collect the sample yourself, Health Canada advises using a NIOSH approved P100 respirator effective against asbestos during sample collection. You may purchase one from most hardwareor safety supply stores.\n\nTo submit samples on your own, insert one sample into a sealed and labeled Ziploc bag. Depending on the material type, acceptable sample quantity should not be larger than a fist and can be as small as 2 square inches. Drywall samples should be submitted with presence of joint compound or mud. Please collect your sample at a joint or seam.\n\nVermiculite samples however are an exception and the recommended quantity is a medium Ziploc freezer bag, with an emphasis on collecting the fine particulate dust that settles on the floor.\n\nLabel the bags with permanent marker with the following information: address, location collected (bathroom wall, kitchen ceiling, garage floor, attic, etc.), type of material (floor tile, texture coat, joint compound, insulation, etc.) collection date and the sample number in the order you wish the samples to be reported.\n\nYou may drop off your samples in person at our lab (Monday to Friday 8: 30 to 4: 00pm). You must first complete a Chain of Custody Form which records important information such as the number of samples, the type of material, location of samples taken, current date, signatures and requested turnaround time for results. Samples will not be analysed without a completed Chain of Custody. Please ensure it accompanies your delivery. Pre-Payment is required upon submission and we accept all major credit cards."
+                },
+                {
+                    "title": "What are the likely sources of asbestos in my home?",
+                    "content": "You cannot identify asbestos by looking at it. Asbestos fibers are microscopic. The only way to confirm its presence is to take a sample of the material and have it tested by an accredited laboratory.\n\nAsbestos is often mixed with other materials. If you work in a building built before 1990, it is likely that at least some parts of the building will contain asbestos.\n\nThere are several construction and industrial products. Common applications include:\n\nDrywall Joint compound\nTextured“popcorn” ceiling\nSpray applied fireproofing\nMechanical insulation\nPipe wrap\nLinoleum\nVinyl floor tiles and Mastic\nVermiculite in cinder blocks and attics\nCement board and tiles\nCement pipes\nTextured decorative coating\nWindow putty and caulking\nStucco"
+                },
+                {
+                    "title": "What are my next steps if my lab results indicate there is greater than 0.5% of asbestos in my home?",
+                    "content": "If your lab report indicates a material is 0.5% or greater in Asbestos this means your building contains Asbestos Containing Material (ACM) according to the Alberta Asbestos Manual and you will require an Alberta asbestos accredited contractor to safely remove and dispose of the ACM. Out of province contractors are not qualified in Alberta. If your lab reports "None Detected", this means your building material sample does not contain any asbestos. However, if you do not submit an adequate number of samples for testing, this may not guarantee an accurate representation of your building materials as not all materials are homogenous."
+                },
+                {
+                    "title": "Possible sources of mold in the house?",
+                    "content": "Mold growth can occur in many areas in the house. This can be caused by factors such as water damage or leakage. If you think you have mold growing in your home you should call a professional to come and do a visual inspection and they can take tape lift or air samples which are taken to an accredited laboratory to be analysed."
+                },
+                {
+                    "title": "How quickly can I receive my results?",
+                    "content": "We offer several turn-around times for asbestos and mold results. Our standard turnaround time is 24 hours. If you require your results sooner, we also offer expedited services for an additional cost. We offer a 24/7 emergency service as well.\r\n\r\nDamp or wet samples may require additional drying time\r\nHard building material may require additional time in the oven so expedited services may not be possible"
+                },
+                {
+                    "title": "What is the cost to test?",
+                    "content": "We offer several turn-around times for asbestos and mold results. Our standard turnaround time is 24 hours. If you require your results sooner, we also offer expedited services as well as 24/7 emergency services at an additional cost*\r\n*conditions apply"
+                }
+            ]
+        }
+    ],
+    "about_us": [
+        {
+            "id": 1,
+            "title": "Guardian Lab Services has been providing quality laboratory testing for home-owners, home inspectors, independent contractors and realtors since 2017.",
+            "sub_title": "Quality control is monitored quarterly through interlaboratory and intralaboratory comparison as well as proficiency testing administered by the Canadian Association for Laboratory Accreditation (CALA) which is an internationally recognized accreditation for laboratories. Guardian Lab Services is accredited under CALA Membership Number 4133",
+            "content": "Final results are confidentially reported to clients. At Guardian Lab we provide the highest quality of service with competitive pricing.",
+            "our_team_title": "We'll Ensure You Always Get the Best Results",
+            "our_team": [
+                {
+                    "title": "MANAGER",
+                    "name": "William Barnes",
+                    "degree": "ARM CEM CMI",
+                    "designation": "Marketing, Quality Assurance and Environmental Consultant"
+                },
+                {
+                    "title": "LAB MANAGER",
+                    "name": "Sadiqur Rahman",
+                    "degree": "M.Sc (Chemistry)",
+                    "designation": "Senior Analyst, and Quality Assurance"
+                },
+                {
+                    "title": "MARKETING MANAGER/LAB ANALYST",
+                    "name": "Stephanie Clooten",
+                    "degree": "B.Sc (Environmental Science)",
+                    "designation": "Marketing Manager and Lab Analyst"
+                },
+                {
+                    "title": "SENIOR ANALYST",
+                    "name": "Sharmin Sultana",
+                    "degree": "BBA and MBA (Business)",
+                    "designation": "Senior Analyst and Quality Assurance"
+                }
+            ]
+        }
+    ],
+    "contact_us": [
+        {
+            "id": 1,
+            "working_hours": "MON-FRI | 08:00am to 5:00pm \r\n SAT-SUN | ON CALL",
+            "location": "11-2280 39 AVE NE\r\nCALGARY, AB. T2E 6P7",
+            "call_center": "(403) 452-1003\r\nGive us a free call 24/7",
+            "email_us": "customerservice@guardianlab.ca"
+        }
+    ]
 }
